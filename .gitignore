@@ -1,0 +1,6 @@
+*.pt
+*.weights
+*.mp4
+*.gz
+*.tif
+__pycache__/
