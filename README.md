@@ -48,6 +48,7 @@
 | **2**     | [Session 2 Content](./Session2) <br> - Image acquisition techniques (cameras, sensors)  <br> - Image formats & color spaces  <br> - BGR, grayscale, HSV conversions  <br> - Enhancement & filtering   |
 | **2 (cont.)** | [Session 2 Continued](./Session2_cont.ipynb) <br> - Image gradients (horizontal, vertical, magnitude, orientation) <br> - Edge detection filters: Roberts, Prewitt, Sobel, Laplacian <br> - Canny edge detection pipeline <br> - Gaussian derivatives, LoG, DoG <br> - Connection to feature detection methods like SIFT |
 | **3**     | [Session 3 Content](./Session3.ipynb) <br> - Feature detection algorithms: Harris, SIFT, SURF <br> - Feature description & matching <br> - Feature-based image alignment <br> - Examples for: Harris, FAST, ORB, BRISK, SURF|
+| **4**     | [Session 4 Content](./Session4) <br> - CNN layers: convolutions, pooling, feature maps <br> - FashionMNIST: loading, training a simple CNN <br> - Visualizing learned filters and activations <br> - Convolutional filters and edge detection <br> - Intro to object detection (YOLO) <br> - Related task: [tasks3.ipynb](./tasks/tasks3.ipynb) |
 
 ---
 
@@ -55,6 +56,11 @@
 
 - [OpenCV-Python Installation](https://web.cecs.pdx.edu/~fliu/courses/cs410/python-opencv.html)  
 - [OpenCV Installation using Anaconda](https://medium.com/@pranav.keyboard/installing-opencv-for-python-on-windows-using-anaconda-or-winpython-f24dd5c895eb)
+- [YOLOv1 – You Only Look Once (Redmon et al., 2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)  
+- [Viola-Jones Face Detection (2001)](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)  
+- [Canny Edge Detector (1988 BMVC Paper)](https://www.bmva-archive.org.uk/bmvc/1988/avc-88-023.pdf)  
+- [An Introduction to Convolutional Neural Networks (2015)](https://arxiv.org/abs/1511.08458)
+
 
 ---
 
